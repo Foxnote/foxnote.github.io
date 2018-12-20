@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	    (null)
+	    FoxnoteSite
         Built with Blocs
 -----------------------------------------------------------------------------------*/
 
@@ -183,10 +183,6 @@ button{
 	background:transparent!important;
 	border:2px solid transparent;
 }
-.btn-xl{
-	padding: 16px 40px;
-	font-size: 28px;
-}
 .a-block{
 	width:100%;
 	text-align:left;
@@ -274,10 +270,9 @@ button{
 -------------------------------------------------------------- */
 
 h1,h2,h3,h4,h5,h6,p,label,.btn,a{
-	font-family:"Helvetica";
+	font-family:"Lato";
 	color:#D7D8D7!important;
-	font-size:14px;
-	line-height:22px;
+	font-weight:400;
 }
 .container{
 	max-width:1170px;
@@ -304,6 +299,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h1-style{
 	font-size:42px;
 	line-height:42px;
+	font-family:Lato;
+	font-weight:700;
 }
 .p-style{
 	font-size:16px;
@@ -311,7 +308,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .p-bloc-1-style{
 	font-family:Lato;
-	font-weight:300;
+	font-weight:400;
 }
 
 /* = Colour

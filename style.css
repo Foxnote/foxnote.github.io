@@ -192,11 +192,6 @@ button{
 	text-align:center;
 }
 
-/* = Icons
--------------------------------------------------------------- */
-.icon-md{
-	font-size:30px!important;
-}
 
 
 
@@ -325,9 +320,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .tc-pumpkin{
 	color:#FB7318!important;
 }
-.tc-white{
-	color:#FFFFFF!important;
-}
 
 /* Button colour styles */
 
@@ -343,13 +335,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .ltc-pumpkin:hover{
 	color:#c95c13!important;
-}
-
-/* Icon colour styles */
-
-.icon-pumpkin{
-	color:#FB7318!important;
-	border-color:#FB7318!important;
 }
 
 
@@ -434,6 +419,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 @media (max-width: 575px){
 	.footer-link{
 	text-align:center;
+}
+.link-style{
+	font-size:60px;
 }
  }
 
